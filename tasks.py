@@ -29,7 +29,7 @@ def unit(c):
 
 @task
 def integration(c):
-    c.run('python -m pytest ./tests/integration --reruns 5 --disable-warnings')
+    c.run('python -m pytest ./tests/integration --disable-warnings')
 
 
 def _validate_python_version(line):
