@@ -1,4 +1,4 @@
-<div align="center">
+<div align='center'>
 <br/>
 <p align="center">
     <i>This repository is part of <a href="https://sdv.dev">The Synthetic Data Vault Project</a>, a project from <a href="https://datacebo.com">DataCebo</a>.</i>
